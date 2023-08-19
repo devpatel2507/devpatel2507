@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @devpatel2507
-- 👀 I’m interested in Data Science
+- 👀 I’m a web developer
+- I'm learning UX/UI 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me devpatel2324@gmail.com
